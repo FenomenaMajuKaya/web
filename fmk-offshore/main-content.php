@@ -259,25 +259,25 @@
       <div class="row justify-content-center">
         <div class="col-10">
           <div class="row">
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/petronas.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/hibiscus-petroleum.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/kpoc.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/shell.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/murphy.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/repsol.png" alt="" class="img-fluid">
             </div>
-            <div class="col-4 py-3">
+            <div class="col-4 py-3 text-center">
               <img src="images/clients/dist/pttep.png" alt="" class="img-fluid">
             </div>
           </div>

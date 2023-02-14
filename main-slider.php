@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row text-center">
         <div class="col-xl-12 col-lg-12 col-md-12 ms-auto">
-          <h3 class="text-white mb-5 letter-space-1 animated6 px-3">WELCOME TO <br>FENOMENA MAJUKAYA SDN. BHD.</h5>
+          <h3 class="text-white mb-5 letter-space-1 animated6 px-3">WELCOME TO <br>FENOMENA MAJUKAYA SDN. BHD. 2024</h5>
 
             <div class="row justify-content-center">
               <div class="col-lg-3 col-md-6">
